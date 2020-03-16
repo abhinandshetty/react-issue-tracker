@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+
+// This class was intended for 2nd and 3rd question
+
 export default class Table extends Component {
 
     componentDidMount() {
